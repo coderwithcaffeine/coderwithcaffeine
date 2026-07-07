@@ -9,9 +9,6 @@
 <a href="https://github.com/coderwithcaffeine">
   <img src="https://komarev.com/ghpvc/?username=coderwithcaffeine&style=for-the-badge&color=6d28d9" alt="Profile views" />
 </a>
-<a href="mailto:iamgodzillax@gmail.com">
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaboration-2563EB?style=for-the-badge" alt="Open to opportunities" />
-</a>
 
 </div>
 
@@ -242,9 +239,7 @@ Intelligent Systems
 I'm open to collaborating on projects involving **AI/ML, computer vision, backend systems, drones, robotics and developer tools**.
 
 <p>
-  <a href="mailto:iamgodzillax@gmail.com">
-    <img src="https://img.shields.io/badge/Email-iamgodzillax%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kartikey" />
-  </a>
+ 
   <a href="https://github.com/coderwithcaffeine">
     <img src="https://img.shields.io/badge/GitHub-coderwithcaffeine-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
