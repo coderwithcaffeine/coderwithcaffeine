@@ -1,14 +1,19 @@
 <div align="center">
 
-# Hey, I'm Kartikey Yadav 👋
+# Hi, I'm Kartikey Yadav 👋
 
-### Cybersecurity · Systems · AI · Autonomous Systems
+### AI/ML Developer · Cybersecurity Explorer · Systems Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&duration=2800\&pause=900\&color=38BDF8\&center=true\&vCenter=true\&width=760\&lines=I+build+systems+that+solve+real+problems.;Exploring+security%2C+low-level+systems+and+AI.;Learning+in+public%2C+one+project+at+a+time.)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=820&lines=Building+intelligent+systems+with+AI.;Turning+data+into+useful+products.;Exploring+ML%2C+computer+vision+and+secure+systems.;Learning+in+public%2C+one+project+at+a+time." alt="Typing animation" />
 
-[![IIT Delhi](https://img.shields.io/badge/IIT%20Delhi-Undergraduate-0F172A?style=for-the-badge\&logo=academia\&logoColor=white)](https://home.iitd.ac.in/)
-[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaboration-22C55E?style=for-the-badge)](mailto:kartikyadaviitd@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=coderwithcaffeine\&style=for-the-badge\&color=0EA5E9)](https://github.com/coderwithcaffeine)
+<br/>
+
+<a href="https://github.com/coderwithcaffeine">
+  <img src="https://komarev.com/ghpvc/?username=coderwithcaffeine&style=for-the-badge&color=238636" alt="Profile views" />
+</a>
+<a href="mailto:kartikyadaviitd@gmail.com">
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaboration-238636?style=for-the-badge" alt="Open to opportunities" />
+</a>
 
 </div>
 
@@ -16,25 +21,34 @@
 
 ## About Me
 
-I'm an undergraduate at **IIT Delhi** who enjoys turning ambitious ideas into working software.
+I'm an undergraduate at **IIT Delhi** interested in building practical products using **artificial intelligence, machine learning and software engineering**.
 
-My primary interest is **cybersecurity**, especially system security, network security, IoT security and the security of autonomous systems. I also build with **AI/ML, backend systems, computer vision and drones** whenever they help solve the problem better.
+I enjoy working across the complete development pipeline: understanding a problem, preparing data, training and evaluating models, building APIs, and turning the result into a usable product. Alongside AI, I explore **cybersecurity, systems programming, computer vision and autonomous systems**.
 
-* 🔐 Exploring cybersecurity, Linux internals and secure systems
-* ⚙️ Learning low-level networking and systems programming with C/C++
-* 🤖 Building AI-assisted products, computer-vision pipelines and autonomous systems
-* 🧠 Strengthening problem-solving through data structures and algorithms
-* 🛠️ Most comfortable learning by building, breaking, measuring and improving
-* ☕ Powered by curiosity, deadlines and an unreasonable amount of caffeine
+- 🤖 Building ML projects around classification, prediction and computer vision
+- 🧠 Learning deep learning, model evaluation and feature engineering
+- 🔐 Exploring cybersecurity, Linux internals and secure systems
+- 🚁 Combining AI with drones, robotics and autonomous systems
+- ⚙️ Strengthening backend development and low-level programming
+- 📚 Solved 400+ data structures and algorithms problems
 
-```cpp
-while (alive) {
-    learn();
-    build();
-    break_things_safely();
-    improve();
-}
+<div align="center">
+
+### AI Build Loop
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=450&color=7EE787&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=150&lines=%3E+collect_data();%3E+engineer_features();%3E+train_model();%3E+evaluate_and_explain();%3E+deploy_to_real_users();" alt="Animated AI development workflow" />
+
+</div>
+
+```python
+while True:
+    learn()
+    build()
+    evaluate()
+    improve()
 ```
+
+---
 
 ## Featured Projects
 
@@ -42,96 +56,180 @@ while (alive) {
 <tr>
 <td width="50%" valign="top">
 
-### [CraftCloud](https://github.com/coderwithcaffeine/CraftCloud)
+### 🧠 CraftCloud
 
-An AI-powered platform that helps artisans transform handmade products into professional, ready-to-publish e-commerce listings.
+An AI-powered platform that helps artisans create professional e-commerce listings from product images and voice input.
 
-**Highlights**
+**What it does**
 
-* Image and voice-assisted product onboarding
-* AI-generated descriptions, SEO keywords and market insights
-* Bilingual workflow designed for accessibility
-* Exportable listing previews in PNG and PDF
+- Generates product titles and descriptions
+- Suggests SEO keywords and market insights
+- Supports accessible bilingual onboarding
+- Creates exportable product listing previews
 
-**Stack:** React, Node.js, Express, MongoDB, Gemini API, Cloudinary
+**Tech:** React, Node.js, Express, MongoDB, Gemini API, Cloudinary
 
-[Repository](https://github.com/coderwithcaffeine/CraftCloud) · [Live Demo](https://craft-cloud.vercel.app)
+<p>
+  <a href="https://github.com/coderwithcaffeine/CraftCloud">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github" alt="CraftCloud repository" />
+  </a>
+  <a href="https://craft-cloud.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel" alt="CraftCloud live demo" />
+  </a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### [Autonomous Aerial Systems](https://github.com/coderwithcaffeine/CSOT_26-Autonomous-Aerial-Systems)
+### 📈 Financial Market Prediction
 
-Model-based design and simulation of a quadcopter autopilot, developed as part of AeroClub IIT Delhi's CSOT programme.
+A machine-learning project focused on predicting market movement using historical financial data and engineered technical indicators.
 
-**Highlights**
+**What it explores**
 
-* Six-degree-of-freedom flight dynamics
-* IMU, barometer and magnetometer sensor models
-* Cascaded PID control and disturbance rejection
-* EKF-based state estimation and waypoint navigation
+- Time-series data preparation
+- Technical indicator engineering
+- Classification and regression models
+- Walk-forward evaluation
+- Model interpretation and risk-aware analysis
 
-**Stack:** MATLAB, Simulink, Control Systems, Sensor Fusion
+**Tech:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Flask
 
-[Repository](https://github.com/coderwithcaffeine/CSOT_26-Autonomous-Aerial-Systems)
+<p>
+  <img src="https://img.shields.io/badge/Status-In%20Development-F59E0B?style=flat-square" alt="Project in development" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚁 Autonomous Aerial Systems
+
+A model-based quadcopter simulation and control project developed through AeroClub IIT Delhi's CSOT programme.
+
+**What it includes**
+
+- Six-degree-of-freedom flight dynamics
+- IMU, barometer and magnetometer models
+- Cascaded PID control
+- Wind disturbance simulation
+- EKF-based state estimation
+- Waypoint navigation
+
+**Tech:** MATLAB, Simulink, Control Systems, Sensor Fusion
+
+<p>
+  <a href="https://github.com/coderwithcaffeine/CSOT_26-Autonomous-Aerial-Systems">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github" alt="Autonomous Aerial Systems repository" />
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 Protein Structure Prediction
+
+A classical machine-learning pipeline for predicting whether amino-acid residues belong to alpha-helical protein regions.
+
+**What it includes**
+
+- Sliding-window sequence representation
+- One-hot feature encoding
+- Group-aware train/test splitting
+- Class-imbalance handling
+- Hyperparameter tuning
+- Comparative model evaluation
+
+**Tech:** Python, Scikit-learn, Pandas, NumPy, Biopython, Jupyter
 
 </td>
 </tr>
 </table>
 
-## What I'm Working Toward
+---
 
-* Building practical **cybersecurity and systems projects** that go beyond tutorials
-* Understanding how operating systems, networks and protocols behave under the hood
-* Combining security with **IoT, drones, robotics and edge AI**
-* Writing software that is measurable, documented and useful outside a demo
+## Current Focus
+
+```text
+AI / Machine Learning
+├── Applied machine learning
+├── Deep learning and CNNs
+├── Computer vision
+├── Model evaluation and interpretation
+└── AI-powered product development
+
+Engineering
+├── Backend systems
+├── C/C++ and systems programming
+├── Linux and networking
+├── Cybersecurity
+└── Drones and autonomous systems
+```
+
+---
 
 ## Tech Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,bash,matlab&perline=6" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,bash,matlab&perline=6" alt="Programming languages" />
 </p>
 
-### Web, Backend and Databases
+### AI, Machine Learning and Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,flask&perline=6" alt="Web and backend technologies" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&perline=6" alt="AI and ML tools" />
 </p>
 
-### AI, Computer Vision and Data
+`Scikit-learn` · `Keras` · `Pandas` · `NumPy` · `Matplotlib` · `Jupyter` · `Google Colab`
+
+### Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&perline=6" alt="AI and computer vision technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,flask&perline=6" alt="Web technologies" />
 </p>
 
-`Scikit-learn` · `Pandas` · `NumPy` · `Keras` · `Matplotlib` · `Jupyter`
-
-### Systems, Security and Developer Tools
+### Tools and Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,docker,vscode,github&perline=6" alt="Developer tools" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,vscode,github,raspberrypi&perline=6" alt="Development tools" />
 </p>
 
-`Wireshark` · `Burp Suite` · `Nmap` · `MAVSDK` · `MAVLink` · `Raspberry Pi`
+`Wireshark` · `Burp Suite` · `Nmap` · `MAVLink` · `MAVSDK` · `Simulink`
+
+---
 
 ## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=coderwithcaffeine&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Kartikey's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderwithcaffeine&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Kartikey's most used languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coderwithcaffeine&theme=github_dark" alt="Kartikey's GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderwithcaffeine&theme=github_dark" alt="Repositories by language" />
 
-<br />
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=coderwithcaffeine&theme=tokyonight&hide_border=true" alt="Kartikey's GitHub contribution streak" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=coderwithcaffeine&theme=github-compact&hide_border=true&area=true" alt="Kartikey's GitHub contribution graph" />
 
 </div>
 
+---
+
+## Beyond Code
+
+- 🎓 Undergraduate at IIT Delhi
+- 🧩 400+ DSA problems solved
+- 🏆 Top-10 finishes in multiple hackathons
+- 📊 Department rank 8 in IIT Delhi Biotechnology
+- 🚀 Interested in AI, cybersecurity, systems and entrepreneurship
+
+---
+
 ## Let's Connect
 
-I'm interested in collaborating on projects involving **cybersecurity, backend systems, AI, computer vision, drones and developer tools**.
+I'm open to collaborating on projects involving **AI/ML, computer vision, cybersecurity, backend systems, drones and developer tools**.
 
 <p>
   <a href="mailto:kartikyadaviitd@gmail.com">
@@ -146,6 +244,6 @@ I'm interested in collaborating on projects involving **cybersecurity, backend s
 
 <div align="center">
 
-### Build things. Understand them deeply. Secure them properly.
+### Build intelligently. Measure honestly. Improve continuously.
 
 </div>
