@@ -1,18 +1,16 @@
 <div align="center">
 
-# Hi, I'm Kartikey Yadav 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:7c3aed&height=210&section=header&text=Kartikey%20Yadav&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Systems&descAlignY=57&descSize=19&animation=fadeIn" alt="Kartikey Yadav AI profile banner" />
 
-### AI/ML Developer · Cybersecurity Explorer · Systems Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=820&lines=Building+intelligent+systems+with+AI.;Turning+data+into+useful+products.;Exploring+ML%2C+computer+vision+and+secure+systems.;Learning+in+public%2C+one+project+at+a+time." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=750&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+intelligent+systems+from+data.;Turning+ML+models+into+useful+products.;Exploring+computer+vision+and+autonomous+systems.;Learning+by+building%2C+testing+and+improving." alt="Typing animation" />
 
 <br/>
 
 <a href="https://github.com/coderwithcaffeine">
-  <img src="https://komarev.com/ghpvc/?username=coderwithcaffeine&style=for-the-badge&color=238636" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=coderwithcaffeine&style=for-the-badge&color=6d28d9" alt="Profile views" />
 </a>
 <a href="mailto:kartikyadaviitd@gmail.com">
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaboration-238636?style=for-the-badge" alt="Open to opportunities" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaboration-2563EB?style=for-the-badge" alt="Open to opportunities" />
 </a>
 
 </div>
@@ -21,22 +19,40 @@
 
 ## About Me
 
-I'm an undergraduate at **IIT Delhi** interested in building practical products using **artificial intelligence, machine learning and software engineering**.
+I'm an undergraduate at **IIT Delhi** focused on building practical products using **artificial intelligence, machine learning and software engineering**.
 
-I enjoy working across the complete development pipeline: understanding a problem, preparing data, training and evaluating models, building APIs, and turning the result into a usable product. Alongside AI, I explore **cybersecurity, systems programming, computer vision and autonomous systems**.
+I enjoy working across the complete AI development pipeline: understanding a problem, preparing data, engineering features, training models, evaluating results, and turning the final system into something people can actually use.
 
-- 🤖 Building ML projects around classification, prediction and computer vision
-- 🧠 Learning deep learning, model evaluation and feature engineering
-- 🔐 Exploring cybersecurity, Linux internals and secure systems
-- 🚁 Combining AI with drones, robotics and autonomous systems
-- ⚙️ Strengthening backend development and low-level programming
-- 📚 Solved 400+ data structures and algorithms problems
+My current interests include:
+
+- 🤖 Applied machine learning and AI product development
+- 🧠 Deep learning, CNNs and model evaluation
+- 👁️ Computer vision and intelligent automation
+- 🚁 AI for drones, robotics and autonomous systems
+- ⚙️ Backend development and performance-focused software
+- 📊 Data structures, algorithms and problem solving
 
 <div align="center">
 
-### AI Build Loop
+### An AI System Coming to Life
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=450&color=7EE787&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=150&lines=%3E+collect_data();%3E+engineer_features();%3E+train_model();%3E+evaluate_and_explain();%3E+deploy_to_real_users();" alt="Animated AI development workflow" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=1350&pause=320&color=7EE787&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=205&lines=%5B01%5D+Collecting+raw+data...;%5B02%5D+Cleaning+and+encoding+features...;%5B03%5D+Training+the+model+%E2%9A%99%EF%B8%8F;%5B04%5D+Evaluating+predictions+%F0%9F%93%88;%5B05%5D+Deploying+intelligence+to+users+%F0%9F%9A%80" alt="Animated machine learning pipeline" />
+
+```text
+┌──────────┐     ┌────────────┐     ┌────────────┐
+│   DATA   │ ──▶ │  FEATURES  │ ──▶ │   MODEL    │
+└──────────┘     └────────────┘     └─────┬──────┘
+                                         │
+                                         ▼
+                                  ┌──────────────┐
+                                  │ PREDICTIONS  │
+                                  └──────┬───────┘
+                                         │
+                                         ▼
+                                  ┌──────────────┐
+                                  │ REAL PRODUCT │
+                                  └──────────────┘
+```
 
 </div>
 
@@ -58,14 +74,15 @@ while True:
 
 ### 🧠 CraftCloud
 
-An AI-powered platform that helps artisans create professional e-commerce listings from product images and voice input.
+An AI-powered platform that helps artisans turn product images and voice input into professional e-commerce listings.
 
 **What it does**
 
 - Generates product titles and descriptions
 - Suggests SEO keywords and market insights
-- Supports accessible bilingual onboarding
-- Creates exportable product listing previews
+- Supports bilingual product onboarding
+- Creates exportable listing previews
+- Reduces the technical effort required to sell online
 
 **Tech:** React, Node.js, Express, MongoDB, Gemini API, Cloudinary
 
@@ -90,8 +107,9 @@ A machine-learning project focused on predicting market movement using historica
 - Time-series data preparation
 - Technical indicator engineering
 - Classification and regression models
-- Walk-forward evaluation
-- Model interpretation and risk-aware analysis
+- Walk-forward validation
+- Model interpretation
+- Risk-aware performance analysis
 
 **Tech:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Flask
 
@@ -107,12 +125,12 @@ A machine-learning project focused on predicting market movement using historica
 
 ### 🚁 Autonomous Aerial Systems
 
-A model-based quadcopter simulation and control project developed through AeroClub IIT Delhi's CSOT programme.
+A quadcopter simulation and control project developed through AeroClub IIT Delhi's CSOT programme.
 
 **What it includes**
 
 - Six-degree-of-freedom flight dynamics
-- IMU, barometer and magnetometer models
+- Sensor modelling for IMU, barometer and magnetometer
 - Cascaded PID control
 - Wind disturbance simulation
 - EKF-based state estimation
@@ -153,19 +171,26 @@ A classical machine-learning pipeline for predicting whether amino-acid residues
 ## Current Focus
 
 ```text
-AI / Machine Learning
+Artificial Intelligence
 ├── Applied machine learning
 ├── Deep learning and CNNs
 ├── Computer vision
-├── Model evaluation and interpretation
+├── Model evaluation
+├── Feature engineering
 └── AI-powered product development
 
-Engineering
+Software Engineering
 ├── Backend systems
-├── C/C++ and systems programming
-├── Linux and networking
-├── Cybersecurity
-└── Drones and autonomous systems
+├── C/C++ programming
+├── APIs and databases
+├── Linux development
+└── Performance-oriented software
+
+Intelligent Systems
+├── Drones and robotics
+├── Sensor fusion
+├── Autonomous navigation
+└── Edge AI
 ```
 
 ---
@@ -192,44 +217,29 @@ Engineering
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,flask&perline=6" alt="Web technologies" />
 </p>
 
-### Tools and Systems
+### Tools and Engineering
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,docker,vscode,github,raspberrypi&perline=6" alt="Development tools" />
 </p>
 
-`Wireshark` · `Burp Suite` · `Nmap` · `MAVLink` · `MAVSDK` · `Simulink`
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coderwithcaffeine&theme=github_dark" alt="Kartikey's GitHub statistics" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderwithcaffeine&theme=github_dark" alt="Repositories by language" />
-
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=coderwithcaffeine&theme=github-compact&hide_border=true&area=true" alt="Kartikey's GitHub contribution graph" />
-
-</div>
+`Simulink` · `MAVLink` · `MAVSDK` · `Cloudinary` · `FFmpeg`
 
 ---
 
 ## Beyond Code
 
 - 🎓 Undergraduate at IIT Delhi
-- 🧩 400+ DSA problems solved
+- 🧩 Solved 400+ data structures and algorithms problems
 - 🏆 Top-10 finishes in multiple hackathons
 - 📊 Department rank 8 in IIT Delhi Biotechnology
-- 🚀 Interested in AI, cybersecurity, systems and entrepreneurship
+- 🚀 Interested in AI, intelligent systems and entrepreneurship
 
 ---
 
 ## Let's Connect
 
-I'm open to collaborating on projects involving **AI/ML, computer vision, cybersecurity, backend systems, drones and developer tools**.
+I'm open to collaborating on projects involving **AI/ML, computer vision, backend systems, drones, robotics and developer tools**.
 
 <p>
   <a href="mailto:kartikyadaviitd@gmail.com">
@@ -245,5 +255,7 @@ I'm open to collaborating on projects involving **AI/ML, computer vision, cybers
 <div align="center">
 
 ### Build intelligently. Measure honestly. Improve continuously.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1d4ed8,100:0f172a&height=120&section=footer" alt="Footer" />
 
 </div>
